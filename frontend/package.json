@@ -6,9 +6,15 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "node-c-parser": "^1.0.11",
     "react": "^18.2.0",
+    "react-ace": "^10.1.0",
     "react-dom": "^18.2.0",
+    "react-flow-renderer": "^10.3.17",
     "react-scripts": "5.0.1",
+    "react-syntax-highlighter": "^15.5.0",
+    "reactflow": "^11.9.3",
+    "reaflow": "^5.2.6",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
