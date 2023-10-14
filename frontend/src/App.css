@@ -1,0 +1,30 @@
+html, body, #root {
+  width: 79.44%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  border-radius: 0.25rem;
+}
+
+
+.text{
+  position: absolute;
+  margin-left: 50%;
+  background-color: rgb(7, 0, 46);
+  color: white;
+}
+
+textarea{
+  margin-top: 0;
+  width: 50vw;
+  height: 50vw;
+  font-size: 25px;
+  border-radius: 20px;
+
+}
+
+.header{
+  padding: 0;
+}
